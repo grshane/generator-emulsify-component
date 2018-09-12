@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Gregg Shanefelt",
+      "authorEmail": "grshane@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}
